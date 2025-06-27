@@ -2,7 +2,9 @@
 margin: 0px;
 padding: 0px;
 }
-
+body {
+    background-color: rgb(209, 185, 157);
+}
 
 header {
     background-color: rgb(141, 91, 68);
