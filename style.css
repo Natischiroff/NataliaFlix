@@ -1,7 +1,8 @@
 * {
-margin: 0px;
-padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
+
 body {
     background-color: rgb(209, 185, 157);
     color: white;
@@ -12,6 +13,10 @@ header {
     color: white;
     font-size: 45px;
     border-bottom: solid 2px rgb(141, 91, 68);
-    
+
     padding: 20px;
+}
+.chamada{
+    display: flex;
+    justify-content: center;
 }
