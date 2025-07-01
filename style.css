@@ -19,7 +19,7 @@ header {
 .chamada{
     display: flex;
     justify-content: center;
-    background-color: rgba(139, 94, 56, 0.829);
+    background-color: rgba(129, 87, 52, 0.829);
 }
 
 .chamada-texto{
