@@ -19,5 +19,5 @@ header {
 .chamada{
     display: flex;
     justify-content: center;
-    background-color: rgb(179, 143, 97);
+    background-color: rgba(139, 94, 56, 0.829);
 }
