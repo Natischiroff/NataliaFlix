@@ -3,4 +3,4 @@ function inserirnome (){
     let elemento=document.querySelector ("#nome-usuario");
     elemento.textContent=nomeUsuario;
 }
-inserirnome()
+inserirnome();
