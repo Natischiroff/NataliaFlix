@@ -36,3 +36,8 @@ img{
     overflow-x: auto;
     gap: 10px;
 }
+
+.boasvindas{
+    font-size: 28px;
+    justify-content: center;
+}
